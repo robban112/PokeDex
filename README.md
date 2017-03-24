@@ -1,5 +1,5 @@
 # PokeDex
 A pokedex made with swift
 
-#Information
+# Info
 Images has not been added! Only for showcase
